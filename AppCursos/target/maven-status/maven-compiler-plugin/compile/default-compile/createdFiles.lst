@@ -1,0 +1,6 @@
+proyecto\model\Estudiantes.class
+proyecto\controller\CursoController.class
+proyecto\dao\AsignaturaDao.class
+proyecto\model\Asignatura.class
+proyecto\model\Persona.class
+proyecto\db\Conexion.class
